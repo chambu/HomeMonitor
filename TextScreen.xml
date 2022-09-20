@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneTextScreen 
+		Beep="yes" 
+		doneAction="http://10.3.21.99/T4X_XML_Browser/InputScreen.xml" 
+		wrapList="no"
+		Timeout="0" 
+		cancelAction="http://10.3.21.99/T4X_XML_Browser/TextMenu.xml" 
+		LockIn="no">
+
+<!--<Title wrap="yes">TextScreen This interface is just used to Test TextScreen Object</Title>-->
+<Title wrap="yes">Verizon</Title>
+
+<Text>Wellcom to VZ!!!!!
+	    Wellcom to VZ!!!!!
+	    Wellcom to VZ!!!!!
+	    Wellcom to VZ!!!!!
+	    Wellcom to VZ!!!!!
+	    Wellcom to VZ!!!!!
+	    Wellcom to VZ!!!!!
+
+</Text>
+
+
+
+<!--
+	<SoftKey index="4">
+		<Label>exit</Label>
+		<URI>SoftKey:Exit</URI>
+	</SoftKey>
+-->
+
+</YealinkIPPhoneTextScreen>
+

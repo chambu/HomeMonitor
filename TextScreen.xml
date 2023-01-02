@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <YealinkIPPhoneTextScreen 
 		Beep="yes" 
-		doneAction="http://10.3.21.99/T4X_XML_Browser/InputScreen.xml" 
+		doneAction="https://github.com/chambu/HomeMonitor/edit/master/TextScreen.xml" 
 		wrapList="no"
 		Timeout="0" 
-		cancelAction="http://10.3.21.99/T4X_XML_Browser/TextMenu.xml" 
+		cancelAction="https://github.com/chambu/HomeMonitor/edit/master/TextScreen.xml" 
 		LockIn="no">
 
 <!--<Title wrap="yes">TextScreen This interface is just used to Test TextScreen Object</Title>-->
 <Title wrap="yes">Verizon</Title>
 
-<Text>Wellcom to VZ!!!!!
-	    Wellcom to VZ!!!!!
-	    Wellcom to VZ!!!!!
-	    Wellcom to VZ!!!!!
-	    Wellcom to VZ!!!!!
-	    Wellcom to VZ!!!!!
-	    Wellcom to VZ!!!!!
-
+<Text>Wellcom to BlueJeans UCaaS Service!!!!!
+	    Wellcom to BlueJeans by Verizon UCaaS Service !
 </Text>
 
 

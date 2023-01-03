@@ -1,27 +1,18 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1"?> 
 <YealinkIPPhoneTextScreen 
-		Beep="yes" 
-		doneAction="https://raw.githubusercontent.com/chambu/HomeMonitor/master/TextScreen.xml" 
-		wrapList="no"
-		Timeout="0" 
-		cancelAction="https://raw.githubusercontent.com/chambu/HomeMonitor/master/TextScreen.xml" 
-		LockIn="no">
-
-<!--<Title wrap="yes">TextScreen This interface is just used to Test TextScreen Object</Title>-->
-<Title wrap="yes">Verizon</Title>
-
-<Text>BlueJeans UCaaS By Verizon!
-	Connecting to BlueJeans by Verizon UCaaS Service !
-</Text>
-
-
-
-<!--
-	<SoftKey index="4">
-		<Label>exit</Label>
-		<URI>SoftKey:Exit</URI>
-	</SoftKey>
--->
-
+Beep="yes" 
+doneAction="OK" 
+wrapList="yes" 
+Timeout="0" 
+cancelAction="" 
+LockIn="no"> 
+<Title>NOTIFICATION</Title> 
+<Text>This phone is registered to the following address for the Emergency 911 calls: 
+STILL NOTHING
+If this information is no longer valid, please contact your administrator or log into the portal to update this device's address. 
+</Text> 
+<SoftKey index="1"> 
+<Label>OK</Label> 
+<URI>SoftKey:Exit</URI> 
+</SoftKey> 
 </YealinkIPPhoneTextScreen>
-

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <YealinkIPPhoneTextScreen 
 		Beep="yes" 
-		doneAction="https://github.com/chambu/HomeMonitor/edit/master/TextScreen.xml" 
+		doneAction="https://raw.githubusercontent.com/chambu/HomeMonitor/master/TextScreen.xml" 
 		wrapList="no"
 		Timeout="0" 
-		cancelAction="https://github.com/chambu/HomeMonitor/edit/master/TextScreen.xml" 
+		cancelAction="https://raw.githubusercontent.com/chambu/HomeMonitor/master/TextScreen.xml" 
 		LockIn="no">
 
 <!--<Title wrap="yes">TextScreen This interface is just used to Test TextScreen Object</Title>-->
